@@ -1,4 +1,4 @@
-# ToDo Application with Redux (Demo version switch to version 2 if you want to see the final implementation).
+# ToDo Application with Redux (Demo version switch to [version 2](https://github.com/MohamedAmineBoulawdhen/Init-Redux-V2.git) if you want to see the final implementation).
 
 In this project, I will be building a ToDo application using Redux to manage the global state.I will the chef principle of this project and it can be expanded as needed.
 
